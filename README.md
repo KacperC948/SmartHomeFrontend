@@ -6,7 +6,7 @@ This repo is frontend part of SmartHome App wth Arduino Mega. On website users c
 
 # Dashboard
 **Register form**
-![Zrzut ekranu 2024-03-20 o 14 36 48](https://github.com/KacperC948/SmartHomeFrontend/assets/59024079/b16dbd3c-a7ac-471c-92f0-d2fbf602d605)
+![Zrzut ekranu 2024-03-20 o 14 36 48](https://github.com/KacperC948/SmartHomeFrontend/assets/59024079/b16dbd3c-a7ac-471c-92f0-d2fbf602d605 = 100x20)
 
 **Login form**
 ![Zrzut ekranu 2024-03-20 o 14 36 53](https://github.com/KacperC948/SmartHomeFrontend/assets/59024079/f716c5e5-7b40-4634-96c9-044cb7503642)
