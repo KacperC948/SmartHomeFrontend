@@ -8,7 +8,8 @@ This repo is frontend part of SmartHome App wth Arduino Mega. On website users c
 **Register form**
 
 
-<img src="https://github.com/KacperC948/SmartHomeFrontend/assets/59024079/b16dbd3c-a7ac-471c-92f0-d2fbf602d605" alt="drawing" width="20%"/>
+<img src="https://github.com/KacperC948/SmartHomeFrontend/assets/59024079/b16dbd3c-a7ac-471c-92f0-d2fbf602d605" alt="drawing" width="20%"/> **Login form** <img src="https://github.com/KacperC948/SmartHomeFrontend/assets/59024079/f716c5e5-7b40-4634-96c9-044cb7503642" alt="drawing" width="20%"/>
+
 
 
 **Login form**
